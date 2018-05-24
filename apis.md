@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/120-anypre
 x-kinRank: "9"
 x-alexaRank: "420842"
 tags: AnyPresence
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/anypresence/master/_listings/anypresence/apis.md
 specificationVersion: "0.14"
 apis: []
